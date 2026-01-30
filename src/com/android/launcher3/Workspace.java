@@ -145,17 +145,17 @@ import java.util.function.Predicate;
 import java.util.stream.Collectors;
 
 import com.patrykmichalik.opto.core.PreferenceExtensionsKt;
-import static app.lawnchair.util.LawnchairUtilsKt.toBitmap;
-import app.lawnchair.LawnchairApp;
-import app.lawnchair.LawnchairAppKt;
-import app.lawnchair.preferences.PreferenceManager;
-import app.lawnchair.preferences2.PreferenceManager2;
-import app.lawnchair.smartspace.DoubleShadowTextView;
-import app.lawnchair.smartspace.SmartspaceAppWidgetProvider;
-import app.lawnchair.smartspace.model.LawnchairSmartspace;
-import app.lawnchair.smartspace.model.SmartspaceMode;
-import app.lawnchair.theme.drawable.DrawableTokens;
-import app.lawnchair.util.LawnchairUtilsKt;
+import static app.supersslc.util.LawnchairUtilsKt.toBitmap;
+import app.supersslc.LawnchairApp;
+import app.supersslc.LawnchairAppKt;
+import app.supersslc.preferences.PreferenceManager;
+import app.supersslc.preferences2.PreferenceManager2;
+import app.supersslc.smartspace.DoubleShadowTextView;
+import app.supersslc.smartspace.SmartspaceAppWidgetProvider;
+import app.supersslc.smartspace.model.LawnchairSmartspace;
+import app.supersslc.smartspace.model.SmartspaceMode;
+import app.supersslc.theme.drawable.DrawableTokens;
+import app.supersslc.util.LawnchairUtilsKt;
 
 /**
  * The workspace is a wide area with a wallpaper and a finite number of pages.
@@ -511,7 +511,7 @@ public class Workspace<T extends View & PageIndicator> extends PagedView<T>
 
         if (mDragInfo != null && mDragInfo.cell != null) {
             CellLayout layout = (CellLayout) (mDragInfo.cell instanceof LauncherAppWidgetHostView
-                    // LC: https://github.com/LawnchairLauncher/lawnchair/issues/3143
+                    // LC: https://github.com/LawnchairLauncher/supersslc/issues/3143
                     && dragObject.dragView.getContentViewParent() != null
                     ? dragObject.dragView.getContentViewParent().getParent()
                     : mDragInfo.cell.getParent().getParent());

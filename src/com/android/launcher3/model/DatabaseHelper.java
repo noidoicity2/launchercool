@@ -34,7 +34,7 @@ import android.util.Log;
 
 import androidx.annotation.NonNull;
 
-import app.lawnchair.preferences2.PreferenceManager2;
+import app.supersslc.preferences2.PreferenceManager2;
 import com.android.launcher3.AutoInstallsLayout;
 import com.android.launcher3.AutoInstallsLayout.LayoutParserCallback;
 import com.android.launcher3.BuildConfig;

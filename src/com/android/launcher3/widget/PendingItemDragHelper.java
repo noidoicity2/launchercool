@@ -49,7 +49,7 @@ import com.android.launcher3.widget.DatabaseWidgetPreviewLoader.WidgetPreviewInf
 
 import java.util.Objects;
 
-import app.lawnchair.LawnchairAppWidgetHostView;
+import app.supersslc.LawnchairAppWidgetHostView;
 
 /**
  * Extension of {@link DragPreviewProvider} with logic specific to pending widgets/shortcuts

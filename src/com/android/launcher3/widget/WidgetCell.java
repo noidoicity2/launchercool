@@ -67,10 +67,10 @@ import com.android.launcher3.widget.util.WidgetSizes;
 
 import java.util.function.Consumer;
 
-import app.lawnchair.LawnchairAppWidgetHostView;
-import app.lawnchair.font.FontManager;
-import app.lawnchair.theme.drawable.DrawableTokens;
-import app.lawnchair.preferences2.PreferenceManager2;
+import app.supersslc.LawnchairAppWidgetHostView;
+import app.supersslc.font.FontManager;
+import app.supersslc.theme.drawable.DrawableTokens;
+import app.supersslc.preferences2.PreferenceManager2;
 import com.patrykmichalik.opto.core.PreferenceExtensionsKt;
 
 /**

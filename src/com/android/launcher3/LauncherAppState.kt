@@ -16,7 +16,7 @@
 package com.android.launcher3
 
 import android.content.Context
-import app.lawnchair.icons.LawnchairIconProvider
+import app.supersslc.icons.LawnchairIconProvider
 import com.android.launcher3.dagger.ApplicationContext
 import com.android.launcher3.icons.IconCache
 import com.android.launcher3.util.DaggerSingletonObject

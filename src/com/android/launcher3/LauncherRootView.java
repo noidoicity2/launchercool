@@ -27,10 +27,10 @@ import java.util.List;
 
 import com.hoko.blur.HokoBlur;
 import com.patrykmichalik.opto.core.PreferenceExtensionsKt;
-import app.lawnchair.preferences.PreferenceManager;
-import app.lawnchair.preferences2.PreferenceManager2;
-import app.lawnchair.util.FileAccessManager;
-import app.lawnchair.util.FileAccessState;
+import app.supersslc.preferences.PreferenceManager;
+import app.supersslc.preferences2.PreferenceManager2;
+import app.supersslc.util.FileAccessManager;
+import app.supersslc.util.FileAccessState;
 
 public class LauncherRootView extends InsettableFrameLayout {
 

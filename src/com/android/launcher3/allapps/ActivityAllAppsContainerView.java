@@ -109,12 +109,12 @@ import java.util.stream.Stream;
 
 import com.patrykmichalik.opto.core.PreferenceExtensionsKt;
 import static com.topjohnwu.superuser.internal.Utils.context;
-import app.lawnchair.allapps.LawnchairAlphabeticalAppsList;
-import app.lawnchair.font.FontManager;
-import app.lawnchair.preferences.PreferenceManager;
-import app.lawnchair.preferences2.PreferenceManager2;
-import app.lawnchair.theme.color.tokens.ColorTokens;
-import app.lawnchair.ui.StretchRecyclerViewContainer;
+import app.supersslc.allapps.LawnchairAlphabeticalAppsList;
+import app.supersslc.font.FontManager;
+import app.supersslc.preferences.PreferenceManager;
+import app.supersslc.preferences2.PreferenceManager2;
+import app.supersslc.theme.color.tokens.ColorTokens;
+import app.supersslc.ui.StretchRecyclerViewContainer;
 
 /**
  * All apps container view with search support for use in a dragging activity.

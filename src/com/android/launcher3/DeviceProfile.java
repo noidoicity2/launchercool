@@ -53,7 +53,7 @@ import androidx.annotation.Nullable;
 import androidx.annotation.VisibleForTesting;
 
 import androidx.core.content.res.ResourcesCompat;
-import app.lawnchair.DeviceProfileOverrides.TextFactors;
+import app.supersslc.DeviceProfileOverrides.TextFactors;
 import com.android.launcher3.CellLayout.ContainerType;
 import com.android.launcher3.DevicePaddings.DevicePadding;
 import com.android.launcher3.InvariantDeviceProfile.DisplayOptionSpec;
@@ -89,12 +89,12 @@ import java.util.Locale;
 import java.util.function.Consumer;
 
 import com.patrykmichalik.opto.core.PreferenceExtensionsKt;
-import app.lawnchair.DeviceProfileOverrides;
-import app.lawnchair.LawnchairApp;
-import app.lawnchair.LawnchairAppKt;
-import app.lawnchair.hotseat.HotseatMode;
-import app.lawnchair.preferences2.PreferenceManager2;
-import app.lawnchair.theme.color.ColorOption;
+import app.supersslc.DeviceProfileOverrides;
+import app.supersslc.LawnchairApp;
+import app.supersslc.LawnchairAppKt;
+import app.supersslc.hotseat.HotseatMode;
+import app.supersslc.preferences2.PreferenceManager2;
+import app.supersslc.theme.color.ColorOption;
 
 @SuppressLint("NewApi")
 public class DeviceProfile {

@@ -20,7 +20,7 @@ import static com.android.launcher3.WorkspaceLayoutManager.FIRST_SCREEN_ID;
 import android.content.Context;
 import android.util.LongSparseArray;
 
-import app.lawnchair.preferences2.PreferenceManager2;
+import app.supersslc.preferences2.PreferenceManager2;
 import com.android.launcher3.BuildConfig;
 import com.android.launcher3.BuildConfigs;
 import com.android.launcher3.InvariantDeviceProfile;

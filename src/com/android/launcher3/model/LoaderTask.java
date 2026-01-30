@@ -115,7 +115,7 @@ import java.util.Set;
 import java.util.concurrent.CancellationException;
 import java.util.stream.Collectors;
 
-import app.lawnchair.preferences.PreferenceManager;
+import app.supersslc.preferences.PreferenceManager;
 
 import javax.inject.Named;
 import javax.inject.Provider;

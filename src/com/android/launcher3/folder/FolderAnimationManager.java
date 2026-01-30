@@ -57,9 +57,9 @@ import com.patrykmichalik.opto.core.PreferenceExtensionsKt;
 
 import java.util.List;
 
-import app.lawnchair.theme.color.ColorOption;
-import app.lawnchair.theme.color.tokens.ColorTokens;
-import app.lawnchair.util.LawnchairUtilsKt;
+import app.supersslc.theme.color.ColorOption;
+import app.supersslc.theme.color.tokens.ColorTokens;
+import app.supersslc.util.LawnchairUtilsKt;
 
 /**
  * Manages the opening and closing animations for a {@link Folder}.

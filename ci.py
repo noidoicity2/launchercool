@@ -75,12 +75,12 @@ def send_internal_notifications():
     except git.exc.GitCommandError as error:
         print(f"Error fetching commits: {error}")
         return
-    
+
     if len(commits) == 0: return
 
     overview_link = f"https://github.com/{github_repository}/compare/{commit_range}"
     overview_link_tag = f"""<a href="{overview_link}">{len(commits)} new commit{"s" if len(commits) > 1 else ""}</a>"""
-    message = f"""<b>🔨 {overview_link_tag} to <code>lawnchair:{github_ref}</code>:</b>\n"""
+    message = f"""<b>🔨 {overview_link_tag} to <code>supersslc:{github_ref}</code>:</b>\n"""
 
     for commit in reversed(commits):
         commit_message = commit.message.split("\n")[0]
@@ -94,7 +94,7 @@ def send_internal_notifications():
 
 def send_update_announcement():
     send_artifact_to_telegram_chat(chat_id=telegram_news_channel_id)
-    
+
     with open("TELEGRAM_CHANGELOG.txt") as telegram_changelog:
         send_message_to_telegram_chat(chat_id=telegram_news_channel_id, message=telegram_changelog.read(), silent=False)
 

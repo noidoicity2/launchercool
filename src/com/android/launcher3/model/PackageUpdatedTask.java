@@ -68,9 +68,9 @@ import java.util.Objects;
 import java.util.function.Predicate;
 import java.util.stream.Collectors;
 
-import app.lawnchair.deck.LawndeckManager;
-import app.lawnchair.preferences.PreferenceManager;
-import app.lawnchair.preferences2.PreferenceManager2;
+import app.supersslc.deck.LawndeckManager;
+import app.supersslc.preferences.PreferenceManager;
+import app.supersslc.preferences2.PreferenceManager2;
 import com.patrykmichalik.opto.core.PreferenceExtensionsKt;
 
 /**

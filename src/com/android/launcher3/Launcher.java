@@ -287,7 +287,7 @@ import java.util.function.Predicate;
 import java.util.function.Supplier;
 import java.util.stream.Stream;
 
-import app.lawnchair.LawnchairApp;
+import app.supersslc.LawnchairApp;
 
 /**
  * Default launcher application.

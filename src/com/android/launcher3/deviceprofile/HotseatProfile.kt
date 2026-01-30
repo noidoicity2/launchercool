@@ -20,8 +20,8 @@ import android.content.Context
 import android.content.res.Resources
 import androidx.compose.ui.platform.LocalContext
 import androidx.compose.ui.unit.dp
-import app.lawnchair.hotseat.HotseatMode
-import app.lawnchair.preferences2.PreferenceManager2
+import app.supersslc.hotseat.HotseatMode
+import app.supersslc.preferences2.PreferenceManager2
 import com.android.launcher3.InvariantDeviceProfile
 import com.android.launcher3.InvariantDeviceProfile.INDEX_DEFAULT
 import com.android.launcher3.R

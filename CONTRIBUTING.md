@@ -2,8 +2,8 @@
 
 <picture>
     <!-- Avoid image being clickable with slight workaround --->
-    <source media="(prefers-color-scheme: dark)" srcset="docs/assets/lawnchair-round.webp" width="100">
-    <img alt="" src="docs/assets/lawnchair-round.webp" width="100">
+    <source media="(prefers-color-scheme: dark)" srcset="docs/assets/supersslc-round.webp" width="100">
+    <img alt="" src="docs/assets/supersslc-round.webp" width="100">
 </picture>
 
 Welcome to the **Lawnchair** project. We appreciate your interest in contributing. For questions,
@@ -39,7 +39,7 @@ For translations, please visit **[Lawnchair on Crowdin][crowdin]**.
 1. Clone the repository with the `--recursive` flag to include the project's
    submodules.
    ```bash
-   git clone --recursive https://github.com/LawnchairLauncher/lawnchair.git
+   git clone --recursive https://github.com/LawnchairLauncher/supersslc.git
    ```
 2. Open the project in Android Studio.
 3. Select the `lawnWithQuickstepGithubDebug` build variant.
@@ -53,7 +53,7 @@ Here are some contribution tips to help you get started:
   `16-dev`.
 - Make sure your code is logical and well-formatted. If using Kotlin,
   see [“Coding conventions” in the Kotlin documentation][kotlin-coding-conventions];
-- [The `lawnchair` package][lawnchair-package]
+- [The `supersslc` package][supersslc-package]
   houses Lawnchair’s own code, whereas [the `src` package][src-package] includes a clone of
   the Launcher3 codebase with modifications. Generally, place new files in the former,
   keeping changes to the latter to a minimum.
@@ -62,10 +62,10 @@ Here are some contribution tips to help you get started:
 
 - [Lawnchair roadmap](ROADMAP.md)
 - [Lawnchair verification](VERIFICATION.md)
-- [The Lawnchair Wiki](https://github.com/LawnchairLauncher/lawnchair/wiki)
+- [The Lawnchair Wiki](https://github.com/LawnchairLauncher/supersslc/wiki)
 - [Lawnchair Visual Guidelines](/docs/assets/README.md)
 - [Lawnchair Quickstep Compat Library](compatLib/README.md)
-- [Lawnchair Preferences Components](lawnchair/src/app/lawnchair/ui/preferences/components/README.md)
+- [Lawnchair Preferences Components](supersslc/src/app/supersslc/ui/preferences/components/README.md)
 - [Lawnchair Platform Frameworks Library SystemUI](platform_frameworks_libs_systemui/README.md)
 - [SystemUI Module](systemUI/README.md)
     - [ViewCapture](systemUI/viewcapture/README.md)
@@ -147,7 +147,7 @@ To update Lawnchair’s font listing, follow these steps:
    a [Google Fonts Developer API key][google-fonts-api-key].
 2. Download the JSON file from `https://www.googleapis.com/webfonts/v1/webfonts?key=API_KEY`,
    replacing `API_KEY` with the API key from step 1.
-3. Replace the content of [`google_fonts.json`](lawnchair/assets/google_fonts.json) with the API
+3. Replace the content of [`google_fonts.json`](supersslc/assets/google_fonts.json) with the API
    response.
 
 #### Writing or updating Lawnchair documentation
@@ -158,16 +158,16 @@ Lawnchair’s documentations are written in Markdown and follow a style guides f
 <!-- Links -->
 [telegram]: https://t.me/lccommunity
 [discord]: https://discord.com/invite/3x8qNWxgGZ
-[nightly]: https://github.com/LawnchairLauncher/lawnchair/releases/tag/nightly
-[security-report]: https://github.com/LawnchairLauncher/lawnchair/security/advisories/new
-[security-policy]: https://github.com/LawnchairLauncher/lawnchair/security/policy
-[bug-reports]: https://github.com/LawnchairLauncher/lawnchair/issues/new?assignees=&labels=bug&projects=&template=bug_report.yaml&title=%5BBUG%5D+
-[feature-requests]: https://github.com/LawnchairLauncher/lawnchair/issues/new?assignees=&labels=feature%2Cenhancement&projects=&template=feature_request.yaml&title=%5BFEATURE%5D+
+[nightly]: https://github.com/LawnchairLauncher/supersslc/releases/tag/nightly
+[security-report]: https://github.com/LawnchairLauncher/supersslc/security/advisories/new
+[security-policy]: https://github.com/LawnchairLauncher/supersslc/security/policy
+[bug-reports]: https://github.com/LawnchairLauncher/supersslc/issues/new?assignees=&labels=bug&projects=&template=bug_report.yaml&title=%5BBUG%5D+
+[feature-requests]: https://github.com/LawnchairLauncher/supersslc/issues/new?assignees=&labels=feature%2Cenhancement&projects=&template=feature_request.yaml&title=%5BFEATURE%5D+
 [code-of-conduct]: CODE_OF_CONDUCT.md
-[crowdin]: https://lawnchair.crowdin.com
+[crowdin]: https://supersslc.crowdin.com
 [kotlin-coding-conventions]: https://kotlinlang.org/docs/coding-conventions.html
-[lawnchair-package]: https://github.com/LawnchairLauncher/lawnchair/tree/16-dev/lawnchair
-[src-package]: https://github.com/LawnchairLauncher/lawnchair/tree/16-dev/src
+[supersslc-package]: https://github.com/LawnchairLauncher/supersslc/tree/16-dev/supersslc
+[src-package]: https://github.com/LawnchairLauncher/supersslc/tree/16-dev/src
 [conventional-commits]: https://www.conventionalcommits.org/en/v1.0.0/
 [google-fonts-api-key]: https://developers.google.com/fonts/docs/developer_api#APIKey
 

@@ -4,7 +4,7 @@ plugins {
 
 android {
     buildToolsVersion "36.1.0"
-    namespace "app.lawnchair.compatlib"
+    namespace "app.supersslc.compatlib"
 
     buildFeatures {
         aidl true

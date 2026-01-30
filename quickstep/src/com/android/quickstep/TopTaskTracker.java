@@ -77,7 +77,7 @@ import java.util.stream.Collectors;
 
 import javax.inject.Inject;
 
-import app.lawnchair.compat.LawnchairQuickstepCompat;
+import app.supersslc.compat.LawnchairQuickstepCompat;
 
 /**
  * This class tracked the top-most task and  some 'approximate' task history to allow faster

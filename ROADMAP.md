@@ -2,7 +2,7 @@
 
 This document outlines our high-level strategic priorities. It's a living document, not a set of
 unbreakable promises. For the status of individual tasks, see
-our [GitHub Issue Tracker](https://github.com/LawnchairLauncher/lawnchair/issues) and our
+our [GitHub Issue Tracker](https://github.com/LawnchairLauncher/supersslc/issues) and our
 team's [Kanban board](https://github.com/orgs/LawnchairLauncher/projects/9/views/1).
 
 ## Vision

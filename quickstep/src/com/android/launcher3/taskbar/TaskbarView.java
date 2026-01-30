@@ -79,9 +79,9 @@ import java.util.Objects;
 import java.util.Set;
 
 import com.patrykmichalik.opto.core.PreferenceExtensionsKt;
-import app.lawnchair.hotseat.HotseatMode;
-import app.lawnchair.preferences2.PreferenceManager2;
-import app.lawnchair.theme.color.tokens.ColorTokens;
+import app.supersslc.hotseat.HotseatMode;
+import app.supersslc.preferences2.PreferenceManager2;
+import app.supersslc.theme.color.tokens.ColorTokens;
 
 /**
  * Hosts the Taskbar content such as Hotseat and Recent Apps. Drawn on top of other apps.

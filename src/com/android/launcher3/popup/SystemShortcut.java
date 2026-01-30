@@ -53,7 +53,7 @@ import java.net.URISyntaxException;
 import java.util.Arrays;
 
 import com.patrykmichalik.opto.core.PreferenceExtensionsKt;
-import app.lawnchair.preferences2.PreferenceManager2;
+import app.supersslc.preferences2.PreferenceManager2;
 
 /**
  * Represents a system shortcut for a given app. The shortcut should have a label and icon, and an

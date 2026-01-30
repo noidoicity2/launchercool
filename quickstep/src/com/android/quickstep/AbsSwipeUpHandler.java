@@ -1871,7 +1871,7 @@ public abstract class AbsSwipeUpHandler<
 
     private int calculateWindowRotation(RemoteAnimationTarget runningTaskTarget,
                                         RecentsOrientedState orientationState) {
-        // LC: https://github.com/LawnchairLauncher/lawnchair/pull/3776
+        // LC: https://github.com/LawnchairLauncher/supersslc/pull/3776
         try {
             if (runningTaskTarget.rotationChange != 0) {
                 return Math.abs(runningTaskTarget.rotationChange) == ROTATION_90

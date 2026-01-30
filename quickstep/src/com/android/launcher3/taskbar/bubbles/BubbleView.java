@@ -41,8 +41,8 @@ import com.android.wm.shell.shared.bubbles.BubbleBarLocation;
 import com.android.wm.shell.shared.bubbles.BubbleInfo;
 
 import com.patrykmichalik.opto.core.PreferenceExtensionsKt;
-import app.lawnchair.preferences2.PreferenceManager2;
-import app.lawnchair.theme.color.ColorOption;
+import app.supersslc.preferences2.PreferenceManager2;
+import app.supersslc.theme.color.ColorOption;
 
 import java.util.EnumSet;
 

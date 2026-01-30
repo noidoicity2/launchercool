@@ -63,12 +63,12 @@ import java.lang.annotation.RetentionPolicy;
 
 import com.hoko.blur.HokoBlur;
 import com.patrykmichalik.opto.core.PreferenceExtensionsKt;
-import app.lawnchair.hotseat.DisabledHotseat;
-import app.lawnchair.hotseat.HotseatMode;
-import app.lawnchair.hotseat.LawnchairHotseat;
-import app.lawnchair.preferences.PreferenceManager;
-import app.lawnchair.preferences2.PreferenceManager2;
-import app.lawnchair.theme.drawable.DrawableTokens;
+import app.supersslc.hotseat.DisabledHotseat;
+import app.supersslc.hotseat.HotseatMode;
+import app.supersslc.hotseat.LawnchairHotseat;
+import app.supersslc.preferences.PreferenceManager;
+import app.supersslc.preferences2.PreferenceManager2;
+import app.supersslc.theme.drawable.DrawableTokens;
 
 /**
  * View class that represents the bottom row of the home screen.

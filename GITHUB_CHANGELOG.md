@@ -38,7 +38,7 @@ Compatibility list:
 #### Fixes
 * [Launcher] Limited Android 11 support
 * [Launcher] Limited Android 10 support
-* [Launcher] Icon pack support (by SuperDragonXD @ https://github.com/LawnchairLauncher/lawnchair/pull/6066)
+* [Launcher] Icon pack support (by SuperDragonXD @ https://github.com/LawnchairLauncher/supersslc/pull/6066)
 * [Launcher] Crash when trying to grab display context from public reference in Android 12.0 and above
 * [Launcher] Don't run predictiveBackTimestamp in less than Baklava device
 * [Launcher] Reimplement Pull to trigger notifications
@@ -408,7 +408,7 @@ Compatibility list:
 * Workspace theme doesn't refresh until restart -> (ZbLX3438) -> Fixed as part of (31lLEflf, 1MevNrzp)
 * Lawnchair Colour can't handle restart causing default colour to be used instead -> Fixed? -> Properly fixed as part of (31lLEflf, 1MevNrzp)
 * (Investigating) Work profile switch on widget selector *may* have reverted to Lawnchair 15 style
-* Full lists: https://trello.com/b/8IdvO81K/pe-lawnchair
+* Full lists: https://trello.com/b/8IdvO81K/pe-supersslc
 
 ### Development 1
 
@@ -431,7 +431,7 @@ First development milestone! Basic launcher functionality should be stable enoug
 * Any Lawnchair settings using IDP will crash the launcher -> Fixed in Lawnchair 16 pE Development 2
 * Icon pack isn't usable -> (DXo69Qzd)
 * Dynamic icons will not be themed by launcher
-* Full lists: https://trello.com/b/8IdvO81K/pe-lawnchair
+* Full lists: https://trello.com/b/8IdvO81K/pe-supersslc
 
 ### Snapshot 6 
 

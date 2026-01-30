@@ -30,7 +30,7 @@ import com.android.quickstep.util.FadeOutRemoteTransition;
 import java.util.Collections;
 import java.util.Map;
 
-import app.lawnchair.util.LawnchairUtilsKt;
+import app.supersslc.util.LawnchairUtilsKt;
 
 /**
  * A wrapper for the hidden API calls

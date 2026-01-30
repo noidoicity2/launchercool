@@ -20,7 +20,7 @@ import android.database.sqlite.SQLiteDatabase
 import android.graphics.Point
 import android.util.Log
 import androidx.annotation.VisibleForTesting
-import app.lawnchair.preferences2.PreferenceManager2
+import app.supersslc.preferences2.PreferenceManager2
 import com.android.launcher3.BuildConfig
 import com.android.launcher3.BuildConfigs
 import com.android.launcher3.Flags

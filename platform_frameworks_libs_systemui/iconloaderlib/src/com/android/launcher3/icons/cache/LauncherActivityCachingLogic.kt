@@ -29,7 +29,7 @@ import com.android.launcher3.icons.BaseIconFactory.IconOptions
 import com.android.launcher3.icons.BitmapInfo
 import com.android.launcher3.icons.IconProvider
 
-import app.lawnchair.icons.getCustomAppNameForComponent
+import app.supersslc.icons.getCustomAppNameForComponent
 
 object LauncherActivityCachingLogic : CachingLogic<LauncherActivityInfo> {
     const val TAG = "LauncherActivityCachingLogic"

@@ -75,8 +75,8 @@ import java.util.function.Predicate;
 
 import javax.inject.Inject;
 
-import app.lawnchair.LawnchairApp;
-import app.lawnchair.compat.LawnchairQuickstepCompat;
+import app.supersslc.LawnchairApp;
+import app.supersslc.compat.LawnchairQuickstepCompat;
 
 /**
  * Singleton class to load and manage recents model.

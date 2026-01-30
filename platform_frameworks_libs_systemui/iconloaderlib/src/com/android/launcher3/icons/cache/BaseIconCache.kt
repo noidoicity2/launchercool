@@ -58,7 +58,7 @@ import com.android.launcher3.util.SQLiteCacheHelper
 import java.util.function.Supplier
 import kotlin.collections.MutableMap.MutableEntry
 
-import app.lawnchair.icons.CustomAdaptiveIconDrawable
+import app.supersslc.icons.CustomAdaptiveIconDrawable
 
 abstract class BaseIconCache
 @JvmOverloads

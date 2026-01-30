@@ -183,7 +183,7 @@ import java.util.LinkedHashMap;
 import java.util.List;
 import java.util.Map.Entry;
 
-import app.lawnchair.compat.LawnchairQuickstepCompat;
+import app.supersslc.compat.LawnchairQuickstepCompat;
 
 /**
  * Manages the opening and closing app transitions from Launcher
@@ -1360,7 +1360,7 @@ public class QuickstepTransitionManager implements OnDeviceProfileChangeListener
     private static int getRotationChange(RemoteAnimationTarget[] appTargets) {
         int rotationChange = 0;
         for (RemoteAnimationTarget target : appTargets) {
-            // LC: https://github.com/LawnchairLauncher/lawnchair/pull/3776
+            // LC: https://github.com/LawnchairLauncher/supersslc/pull/3776
             try {
                 if (Math.abs(target.rotationChange) > Math.abs(rotationChange)) {
                     rotationChange = target.rotationChange;

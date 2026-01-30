@@ -86,7 +86,7 @@ import java.util.stream.Stream;
 import javax.inject.Inject;
 import javax.inject.Named;
 
-import app.lawnchair.icons.LawnchairIconProvider;
+import app.supersslc.icons.LawnchairIconProvider;
 
 /**
  * Cache of application icons.  Icons can be made from any thread.

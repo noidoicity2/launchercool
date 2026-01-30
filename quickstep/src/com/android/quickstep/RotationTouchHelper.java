@@ -56,7 +56,7 @@ import java.io.PrintWriter;
 
 import javax.inject.Inject;
 
-import app.lawnchair.util.LawnchairUtilsKt;
+import app.supersslc.util.LawnchairUtilsKt;
 
 /**
  * Helper class for transforming touch events

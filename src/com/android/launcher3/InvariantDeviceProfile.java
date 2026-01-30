@@ -95,8 +95,8 @@ import java.util.stream.Collectors;
 
 import javax.inject.Inject;
 
-import app.lawnchair.DeviceProfileOverrides.DBGridInfo;
-import app.lawnchair.DeviceProfileOverrides;
+import app.supersslc.DeviceProfileOverrides.DBGridInfo;
+import app.supersslc.DeviceProfileOverrides;
 
 @LauncherAppSingleton
 public class InvariantDeviceProfile {

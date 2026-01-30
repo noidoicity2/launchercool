@@ -53,7 +53,7 @@ import com.android.launcher3.views.ScrimColors;
 
 import java.util.Arrays;
 
-import app.lawnchair.LawnchairLauncher;
+import app.supersslc.LawnchairLauncher;
 
 /**
  * Base state for various states used for the Launcher

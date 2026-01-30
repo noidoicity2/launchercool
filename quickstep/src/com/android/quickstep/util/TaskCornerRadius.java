@@ -15,7 +15,7 @@
  */
 package com.android.quickstep.util;
 
-import static app.lawnchair.util.LawnchairUtilsKt.supportsRoundedCornersOnWindows;
+import static app.supersslc.util.LawnchairUtilsKt.supportsRoundedCornersOnWindows;
 
 import android.content.Context;
 import android.content.res.Resources;

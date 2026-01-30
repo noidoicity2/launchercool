@@ -70,8 +70,8 @@ import java.util.function.Consumer;
 import java.util.function.Predicate;
 import java.util.stream.Collectors;
 
-import app.lawnchair.LawnchairApp;
-import app.lawnchair.compat.LawnchairQuickstepCompat;
+import app.supersslc.LawnchairApp;
+import app.supersslc.compat.LawnchairQuickstepCompat;
 
 /**
  * Manages the recent task list from the system, caching it as necessary.

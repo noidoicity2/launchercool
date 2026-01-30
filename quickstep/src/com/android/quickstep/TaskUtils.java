@@ -39,7 +39,7 @@ import com.android.systemui.shared.system.ActivityManagerWrapper;
 
 import java.util.List;
 
-import app.lawnchair.LawnchairApp;
+import app.supersslc.LawnchairApp;
 
 /**
  * Contains helpful methods for retrieving data from {@link Task}s.

@@ -79,8 +79,8 @@ import java.util.ArrayList;
 import javax.inject.Inject;
 import javax.inject.Named;
 
-import app.lawnchair.LawnchairApp;
-import app.lawnchair.compat.LawnchairQuickstepCompat;
+import app.supersslc.LawnchairApp;
+import app.supersslc.compat.LawnchairQuickstepCompat;
 
 /**
  * Model delegate which loads prediction items

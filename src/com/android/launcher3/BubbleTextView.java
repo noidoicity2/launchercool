@@ -111,12 +111,12 @@ import java.util.Locale;
 import java.util.Objects;
 
 import com.patrykmichalik.opto.core.PreferenceExtensionsKt;
-import app.lawnchair.LawnchairApp;
-import app.lawnchair.font.FontManager;
-import app.lawnchair.gestures.IconGestureListener;
-import app.lawnchair.preferences.PreferenceManager;
-import app.lawnchair.preferences2.PreferenceManager2;
-import app.lawnchair.util.LawnchairUtilsKt;
+import app.supersslc.LawnchairApp;
+import app.supersslc.font.FontManager;
+import app.supersslc.gestures.IconGestureListener;
+import app.supersslc.preferences.PreferenceManager;
+import app.supersslc.preferences2.PreferenceManager2;
+import app.supersslc.util.LawnchairUtilsKt;
 
 /**
  * TextView that draws a bubble behind the text. We cannot use a LineBackgroundSpan

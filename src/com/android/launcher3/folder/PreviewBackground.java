@@ -56,10 +56,10 @@ import com.android.launcher3.util.Themes;
 import com.android.launcher3.views.ActivityContext;
 import com.patrykmichalik.opto.core.PreferenceExtensionsKt;
 
-import app.lawnchair.preferences2.PreferenceManager2;
-import app.lawnchair.theme.color.ColorOption;
-import app.lawnchair.theme.color.tokens.ColorTokens;
-import app.lawnchair.util.LawnchairUtilsKt;
+import app.supersslc.preferences2.PreferenceManager2;
+import app.supersslc.theme.color.ColorOption;
+import app.supersslc.theme.color.tokens.ColorTokens;
+import app.supersslc.util.LawnchairUtilsKt;
 
 /**
  * This object represents a FolderIcon preview background. It stores drawing /

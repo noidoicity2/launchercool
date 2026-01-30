@@ -33,7 +33,7 @@ import com.android.launcher3.views.ActivityContext;
 import com.android.launcher3.views.ScrimColors;
 import com.android.quickstep.views.RecentsViewContainer;
 
-import app.lawnchair.theme.color.tokens.ColorTokens;
+import app.supersslc.theme.color.tokens.ColorTokens;
 
 /**
  * State definition for Fallback recents

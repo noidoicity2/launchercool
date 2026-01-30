@@ -36,7 +36,7 @@ CATEGORY_MAP = {
 }
 
 IN_PATH = "playstore"
-OUT_PATH = "../lawnchair/assets/flowerpot/"
+OUT_PATH = "../supersslc/assets/flowerpot/"
 TEMPLATE_PATH = "templates"
 FORMAT_VERSION = "1"
 FORMAT_VERSION_HUMAN = "azalea"
@@ -45,9 +45,9 @@ out_p = Path(OUT_PATH)
 if out_p.exists():
     shutil.rmtree(out_p)
 
-try:  
+try:
     out_p.mkdir()
-except OSError:  
+except OSError:
     print ("Creation of the directory %s failed" % OUT_PATH)
 
 for category in CATEGORY_MAP.keys():

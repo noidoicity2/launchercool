@@ -33,7 +33,7 @@ import com.android.launcher3.icons.BitmapInfo
 import com.android.launcher3.icons.FastBitmapDrawable
 import com.android.launcher3.icons.R
 
-import app.lawnchair.icons.shouldTransparentBGIcons
+import app.supersslc.icons.shouldTransparentBGIcons
 
 /** Class to handle monochrome themed app icons */
 class ThemedIconDrawable(constantState: ThemedConstantState) :

@@ -54,7 +54,7 @@ import com.android.launcher3.testing.TestLogging;
 import com.android.launcher3.testing.shared.TestProtocol;
 import com.android.launcher3.util.TouchUtil;
 
-import app.lawnchair.LawnchairLauncher;
+import app.supersslc.LawnchairLauncher;
 
 /**
  * Helper class to handle touch on empty space in workspace and show options popup on long press

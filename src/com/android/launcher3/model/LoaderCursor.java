@@ -81,8 +81,8 @@ import java.net.URISyntaxException;
 import java.security.InvalidParameterException;
 
 import com.patrykmichalik.opto.core.PreferenceExtensionsKt;
-import app.lawnchair.LawnchairApp;
-import app.lawnchair.preferences2.PreferenceManager2;
+import app.supersslc.LawnchairApp;
+import app.supersslc.preferences2.PreferenceManager2;
 
 /**
  * Extension of {@link Cursor} with utility methods for workspace loading.

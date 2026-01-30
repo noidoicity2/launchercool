@@ -58,7 +58,7 @@ import com.android.launcher3.util.SafeCloseable;
 import java.util.Calendar;
 import java.util.Objects;
 
-import app.lawnchair.icons.CustomAdaptiveIconDrawable;
+import app.supersslc.icons.CustomAdaptiveIconDrawable;
 
 /**
  * Class to handle icon loading from different packages

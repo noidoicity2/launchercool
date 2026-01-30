@@ -49,10 +49,10 @@ import com.android.launcher3.util.UserIconInfo;
 
 import java.lang.annotation.Retention;
 
-import app.lawnchair.icons.CustomAdaptiveIconDrawable;
-import app.lawnchair.icons.ExtendedBitmapDrawable;
-import app.lawnchair.icons.FixedScaleDrawable;
-import app.lawnchair.icons.IconPreferencesKt;
+import app.supersslc.icons.CustomAdaptiveIconDrawable;
+import app.supersslc.icons.ExtendedBitmapDrawable;
+import app.supersslc.icons.FixedScaleDrawable;
+import app.supersslc.icons.IconPreferencesKt;
 
 /**
  * This class will be moved to androidx library. There shouldn't be any dependency outside

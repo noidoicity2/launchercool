@@ -28,7 +28,7 @@ import android.content.Context;
 import android.content.SharedPreferences;
 import android.text.TextUtils;
 
-import app.lawnchair.LawnchairProto;
+import app.supersslc.LawnchairProto;
 import com.android.launcher3.InvariantDeviceProfile;
 import com.android.launcher3.LauncherPrefs;
 import com.android.launcher3.logging.StatsLogManager.LauncherEvent;

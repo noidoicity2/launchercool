@@ -65,8 +65,8 @@ import com.android.launcher3.views.ActivityContext;
 import java.util.ArrayList;
 import java.util.function.Consumer;
 
-import app.lawnchair.preferences.PreferenceManager;
-import app.lawnchair.ui.StretchEdgeEffect;
+import app.supersslc.preferences.PreferenceManager;
+import app.supersslc.ui.StretchEdgeEffect;
 
 /**
  * An abstraction of the original Workspace which supports browsing through a

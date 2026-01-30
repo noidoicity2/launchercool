@@ -57,24 +57,24 @@ import com.android.launcher3.widget.util.WidgetSizeHandler;
 
 import javax.inject.Named;
 
-import app.lawnchair.DeviceProfileOverrides;
-import app.lawnchair.HeadlessWidgetsManager;
-import app.lawnchair.NotificationManager;
-import app.lawnchair.data.folder.service.FolderService;
-import app.lawnchair.data.iconoverride.IconOverrideRepository;
-import app.lawnchair.data.wallpaper.service.WallpaperService;
-import app.lawnchair.font.FontCache;
-import app.lawnchair.font.FontManager;
-import app.lawnchair.font.googlefonts.GoogleFontsListing;
-import app.lawnchair.icons.iconpack.IconPackProvider;
-import app.lawnchair.icons.shape.IconShapeManager;
-import app.lawnchair.preferences.PreferenceManager;
-import app.lawnchair.preferences2.PreferenceManager2;
-import app.lawnchair.smartspace.provider.SmartspaceProvider;
-import app.lawnchair.theme.ThemeProvider;
-import app.lawnchair.ui.preferences.components.colorpreference.ColorPreferenceModelList;
-import app.lawnchair.ui.preferences.data.liveinfo.LiveInformationManager;
-import app.lawnchair.util.LawnchairWindowManagerProxy;
+import app.supersslc.DeviceProfileOverrides;
+import app.supersslc.HeadlessWidgetsManager;
+import app.supersslc.NotificationManager;
+import app.supersslc.data.folder.service.FolderService;
+import app.supersslc.data.iconoverride.IconOverrideRepository;
+import app.supersslc.data.wallpaper.service.WallpaperService;
+import app.supersslc.font.FontCache;
+import app.supersslc.font.FontManager;
+import app.supersslc.font.googlefonts.GoogleFontsListing;
+import app.supersslc.icons.iconpack.IconPackProvider;
+import app.supersslc.icons.shape.IconShapeManager;
+import app.supersslc.preferences.PreferenceManager;
+import app.supersslc.preferences2.PreferenceManager2;
+import app.supersslc.smartspace.provider.SmartspaceProvider;
+import app.supersslc.theme.ThemeProvider;
+import app.supersslc.ui.preferences.components.colorpreference.ColorPreferenceModelList;
+import app.supersslc.ui.preferences.data.liveinfo.LiveInformationManager;
+import app.supersslc.util.LawnchairWindowManagerProxy;
 import dagger.BindsInstance;
 
 /**

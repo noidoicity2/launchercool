@@ -39,7 +39,7 @@ import com.android.launcher3.popup.RoundedArrowDrawable
 import com.android.launcher3.util.Themes
 import com.android.launcher3.views.ActivityContext
 
-import app.lawnchair.theme.color.tokens.ColorTokens
+import app.supersslc.theme.color.tokens.ColorTokens
 
 private const val ENTER_DURATION_MS = 300L
 private const val EXIT_DURATION_MS = 150L

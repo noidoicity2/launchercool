@@ -89,9 +89,9 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Stack;
 
-import app.lawnchair.preferences2.PreferenceManager2;
-import app.lawnchair.theme.color.tokens.ColorTokens;
-import app.lawnchair.theme.drawable.DrawableTokens;
+import app.supersslc.preferences2.PreferenceManager2;
+import app.supersslc.theme.color.tokens.ColorTokens;
+import app.supersslc.theme.drawable.DrawableTokens;
 
 public class CellLayout extends ViewGroup {
     private static final String TAG = "CellLayout";
@@ -771,7 +771,7 @@ public class CellLayout extends ViewGroup {
                                        CellLayoutLayoutParams params, boolean markCells) {
         final CellLayoutLayoutParams lp = params;
 
-        // Hotseat icons - modified by lawnchair
+        // Hotseat icons - modified by supersslc
         if (child instanceof BubbleTextView bubbleChild) {
             boolean enableLabel = mContainerType == HOTSEAT
                     ? PreferenceExtensionsKt.firstBlocking(pref.getEnableLabelInDock())

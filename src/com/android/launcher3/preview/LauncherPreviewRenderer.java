@@ -49,7 +49,7 @@ import androidx.annotation.UiThread;
 import androidx.lifecycle.DefaultLifecycleObserver;
 import androidx.lifecycle.LifecycleOwner;
 
-import app.lawnchair.preferences2.PreferenceManager2;
+import app.supersslc.preferences2.PreferenceManager2;
 import com.android.launcher3.BuildConfig;
 import com.android.launcher3.BuildConfigs;
 import com.android.launcher3.CellLayout;

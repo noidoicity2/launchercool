@@ -20,7 +20,7 @@ import android.app.Activity
 import android.content.ComponentCallbacks
 import android.content.res.Configuration
 import android.os.Bundle
-import app.lawnchair.theme.ThemeProvider
+import app.supersslc.theme.ThemeProvider
 import com.android.launcher3.LauncherConstants.SavedInstanceKeys.RUNTIME_STATE_RECREATE_TO_UPDATE_THEME
 import com.android.launcher3.R
 import com.android.launcher3.Utilities

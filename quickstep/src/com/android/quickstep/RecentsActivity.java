@@ -97,7 +97,7 @@ import java.io.FileDescriptor;
 import java.io.PrintWriter;
 import java.util.List;
 
-import app.lawnchair.compat.LawnchairQuickstepCompat;
+import app.supersslc.compat.LawnchairQuickstepCompat;
 
 /**
  * A recents activity that shows the recently launched tasks as swipable task cards.

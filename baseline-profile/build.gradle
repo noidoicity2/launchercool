@@ -4,7 +4,7 @@ plugins {
 }
 
 android {
-    namespace 'app.lawnchair.baseline'
+    namespace 'app.supersslc.baseline'
 
     defaultConfig {
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"

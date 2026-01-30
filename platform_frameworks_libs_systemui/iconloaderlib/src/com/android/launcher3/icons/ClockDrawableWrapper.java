@@ -51,8 +51,8 @@ import java.util.Objects;
 import java.util.concurrent.TimeUnit;
 import java.util.function.IntFunction;
 
-import app.lawnchair.icons.ClockMetadata;
-import app.lawnchair.icons.CustomAdaptiveIconDrawable;
+import app.supersslc.icons.ClockMetadata;
+import app.supersslc.icons.CustomAdaptiveIconDrawable;
 
 /**
  * Wrapper over {@link AdaptiveIconDrawable} to intercept icon flattening logic for dynamic

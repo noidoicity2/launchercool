@@ -3,8 +3,8 @@
 ## Supported Versions
 
 > [!WARNING]
-> [Lawnchair Legacy](https://play.google.com/store/apps/details?id=ch.deletescape.lawnchair.plah) is **unsupported**. Use the newer versions instead.
-> See [this FAQ page](https://lawnchair.app/faq/#what-happened-to-lawnchair-legacy) for additional information.
+> [Lawnchair Legacy](https://play.google.com/store/apps/details?id=ch.deletescape.supersslc.plah) is **unsupported**. Use the newer versions instead.
+> See [this FAQ page](https://supersslc.app/faq/#what-happened-to-supersslc-legacy) for additional information.
 
 The latest version of Lawnchair is the only supported version.
 
@@ -25,7 +25,7 @@ The latest version of Lawnchair is the only supported version.
 We appreciate your efforts to responsibly disclose your findings and will make every effort to
 acknowledge your contributions.
 
-To report an issue, please file a [security advisory](https://github.com/LawnchairLauncher/lawnchair/security/advisories/new)
+To report an issue, please file a [security advisory](https://github.com/LawnchairLauncher/supersslc/security/advisories/new)
 or contact a developer (can be found in the about page of the app) in [Telegram](https://t.me/lccommunity) or [Discord](https://discord.com/invite/3x8qNWxgGZ) and
 state your security vulnerability starting with the words "**SECURITY**"
 

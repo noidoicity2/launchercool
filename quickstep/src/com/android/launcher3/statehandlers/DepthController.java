@@ -45,8 +45,8 @@ import java.io.PrintWriter;
 import java.util.function.Consumer;
 
 import com.patrykmichalik.opto.core.PreferenceExtensionsKt;
-import app.lawnchair.compat.LawnchairQuickstepCompat;
-import app.lawnchair.preferences2.PreferenceManager2;
+import app.supersslc.compat.LawnchairQuickstepCompat;
+import app.supersslc.preferences2.PreferenceManager2;
 
 /**
  * Controls blur and wallpaper zoom, for the Launcher surface only.
